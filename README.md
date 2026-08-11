@@ -1,5 +1,1 @@
-Python
-
-Java
-
-PHP
+só o Java basta
